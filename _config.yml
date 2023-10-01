@@ -36,6 +36,7 @@ sass:
   style: :compressed  
 
 favicon: fav-icon.png
+goat_counter: "gstavridis"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
