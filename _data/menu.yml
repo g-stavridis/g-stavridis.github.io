@@ -1,0 +1,24 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: ABOUT
+    url: about
+  - title: PROJECTS
+
+  - title: solo
+
+  - title: symvanta.xyz
+    url: symvanta
+  - title: collaborations
+
+  - title: Orchestra Of Noises
+    url: orchestra-of-noises
+  - title: Trigger Happy
+    url: trigger-happy
+  - title: loskop.radio
+    url: loskop-radio
+  - title: Blip
+    url: blip
+  # - title: CONTACT
+  #   url: contact
