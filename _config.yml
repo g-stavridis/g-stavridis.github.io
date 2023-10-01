@@ -27,6 +27,9 @@ url: "https://www.gstavridis.xyz" # the base hostname & protocol for your site, 
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+favicon: fav-icon.png # name+extension of favicon (which must be put on the root folder)
+goat_counter: "gstavridis" # put your GoatCounter name if you want to use GoatCounter analytics
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -35,8 +38,6 @@ plugins:
 sass:
   style: :compressed  
 
-favicon: fav-icon.png
-goat_counter: "gstavridis"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
