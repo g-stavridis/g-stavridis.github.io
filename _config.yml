@@ -30,7 +30,8 @@ url: "https://www.gstavridis.xyz" # the base hostname & protocol for your site, 
 # Build settings
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
+  
 sass:
   style: :compressed  
 
