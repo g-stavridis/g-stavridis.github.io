@@ -33,7 +33,7 @@
     </div>
     <!-- </main> -->
 
-    {% if site.goat_counter %}
+    {% if site.goat_counter and jekyll.environment == "production" %}
       {% include goat_counter.html %}
     {% endif %}
 
