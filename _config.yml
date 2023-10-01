@@ -33,6 +33,7 @@ goat_counter: "gstavridis" # put your GoatCounter name if you want to use GoatCo
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 sass:
   style: :compressed  
