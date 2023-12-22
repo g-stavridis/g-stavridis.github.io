@@ -16,6 +16,11 @@ Yorgos Stavridis: *Percussion, objects, microphones*
 #### Blockwork EP
 <iframe id="frame" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502543488&color=%23000000&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&show_artwork=false&show_playcount=false&sharing=false"></iframe>{:.non-top-margin}
 
+#### In Medias Res (2023)
+<div class="video-container">
+    <div class="js-player" id="plyr-1" data-plyr-provider="youtube" data-plyr-embed-id="hkxbzfcjCp0"></div>
+</div>
+
 
 #### Performance at Embros Theater (2017)
 <div class="video-container">
