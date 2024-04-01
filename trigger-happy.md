@@ -3,9 +3,12 @@ layout: page
 title: Trigger Happy
 subtitle: experimental music group
 ---
-
+<div 
+  class="js-read-smore" 
+  data-read-smore-words="70" 
+>
 Trigger Happy is a 4-piece band from Greece, active since 2016. Their idiosyncratic setups include objects, toys, cracked-media, conventional instruments, electronic and electroacoustic contraptions. Noisy textures, microsounds, serene drones, found recordings, and loops are assembled into interchangeable sound-blocks and cut-up like improvisatory structures. Informed by sound collage, game pieces and polystylism, all elements are juxtaposed in contrasting fast-paced changes and abrupt cuts. Each performance is dictated by a unique event score, devised by the group.<br>Trigger Happy are also the driving force of Κε.Δι.Μου.Ρα [Ke.Di.Mou.Ra] collective. Formed in 2013, it was the answer to a common need of its members for a flexible group structure exploring collaborative and playful ways of musical interaction and composition. Exploring sound and play in real-time formations and archival contexts, they organize performances, concerts, workshops and media art projects, inviting and collaborating with various musicians and artists. Ke.Di.Mou.Ra also curates and maintains the online radio platform Loskop Radio.
-
+</div>
 
 Yorgos Stavridis: *Percussion, objects, microphones*  
 <a href="http://yorgostenos.com/?i=1" target="_blank">Yorgos Stenos Frantzios</a>: *Amplified objects and toys, electronics*  
