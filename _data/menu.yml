@@ -6,19 +6,23 @@ entries:
     url: about
   - title: PROJECTS
 
-  - title: solo
+  # - title: solo
 
-  - title: symvanta.xyz
-    url: symvanta
-  - title: collaborations
+  - title: Solo Percussion
+    url: solo-percussion
 
-  - title: Orchestra Of Noises
-    url: orchestra-of-noises
+  # - title: collaborations
+
+  - title: BLIP
+    url: blip
+
   - title: Trigger Happy
     url: trigger-happy
+
   - title: loskop.radio
     url: loskop-radio
-  - title: Blip
-    url: blip
+
+  # - title: Orchestra Of Noises
+  #   url: orchestra-of-noises
   # - title: CONTACT
   #   url: contact
