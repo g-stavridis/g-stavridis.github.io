@@ -23,8 +23,8 @@ Mastering by Mathhias Heinstein
 <!-- 
 ![solo-percussion](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/solo-percussion-lp-cover.jpg)
 
-![solo-percussion-2](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/solo-percussion-lp-photo.jpg)
- -->
+![solo-percussion-2](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/solo-percussion-lp-photo.jpg) -->
+
 
 <div class="lp-imgs" style= "display:flex;">
 <img alt="solo-percussion" src="https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/solo-percussion-lp-cover.jpg">
