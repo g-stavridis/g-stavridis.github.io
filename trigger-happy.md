@@ -36,7 +36,7 @@ Yorgos Stavridis: *Percussion, objects, microphones*
 </div>
 
 
-#### Buzzer (collaboration with composer Niki Krasaki)
+#### Buzzer (collaboration with Niki Krasaki)
 <div class="video-container">
     <div class="js-player" id="plyr-2" data-plyr-provider="youtube" data-plyr-embed-id="u1uWfg5cTUk"></div>
 </div>
