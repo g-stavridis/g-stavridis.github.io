@@ -23,7 +23,7 @@ More info at [blib.boo](https://blip.boo/)
 
 #### Orchestra Of Noises (workshop)
 <div class="video-container">
-    <div class="js-player" id="plyr-4" data-plyr-provider="youtube" data-plyr-embed-id="z6CMUFBIo8"></div>
+    <div class="js-player" id="plyr-4" data-plyr-provider="youtube" data-plyr-embed-id="FGW_SlUhmuA"></div>
 </div>
 
 
