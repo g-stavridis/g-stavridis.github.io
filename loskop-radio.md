@@ -17,4 +17,4 @@ KeDiMouRa was formed in Corfu, Greece as an answer to the common need of its mem
 ![loskop-logo](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/loskop-logo.png){:.lokop-logo}
 
 
-![loskop-logo-crawler](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/loskop-logo-crawler.jpg){:.lokop-logo}
+![loskop-logo-crawler](https://raw.githubusercontent.com/g-stavridis/g-stavridis.github.io/master/assets/images/loskop-logo-crawler.png){:.lokop-logo}
