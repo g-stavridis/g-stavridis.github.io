@@ -4,10 +4,8 @@ title: Trigger Happy
 subtitle: experimental music group
 ---
 
-Trigger Happy is a Greek four-member band formed by <a href="https://mizithras.bandcamp.com/releases" target="_blank">Yorgos Mizithras (MIZI)</a> playing cracked media, Yorgos Stavridis on percussion and electronics, <a href="https://loskop.radio/producers/manthos-karras/" target="_blank">Manthos Karras</a> on turntable and samples, and <a href="http://yorgostenos.com/?i=1" target="_blank">Yorgos Stenos</a> playing saxophone, toys and objects.
-
-The band adopts two distinct approaches to their performances: a high-octane, plunderphonics experience focused on their usual setups and the interaction between members, creating a fast-paced, collage-like, energetic concerts; and more conceptual, focused pieces in the realm of performance installation, where specific setups and musical ideas take center stage, incorporating old media, toys, and found objects while setting aside their usual instruments.
-
+Trigger Happy is a Greek four-member band formed by <a href="https://mizi.media/" target="_blank">Yorgos Mizithras (MIZI)</a> playing cracked media, Yorgos Stavridis on percussion and electronics, <a href="https://loskop.radio/producers/manthos-karras/" target="_blank">Manthos Karras</a> on turntable and samples, and <a href="https://www.stenos.xyz/" target="_blank">Yorgos Stenos</a> playing saxophone, toys and objects.
+The band adopts two distinct approaches to their performances: a high-octane, plunderphonics experience focused on their usual setups and the interaction between members, creating fast-paced, collage-like, energetic concerts; and more conceptual, focused pieces in the realm of performance installation, where specific setups and musical ideas take center stage, incorporating old media, toys, and found objects while setting aside their usual instruments.
 Their debut album was released by TOPOT in May 2026.
 
 
