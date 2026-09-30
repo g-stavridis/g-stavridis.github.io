@@ -15,7 +15,7 @@ Yorgos Stavridis: *Percussion, objects, microphones*
 <hr>
 
 #### Trigger Happy (debut album release)
-<iframe style="border: 0; width: 100%; height: 120px; max-width: 100%;" src="https://bandcamp.com/EmbeddedPlayer/album=2368081333/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tawpot.bandcamp.com/album/trigger-happy">Trigger Happy by Trigger Happy</a></iframe>{:.non-top-margin}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2368081333/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tawpot.bandcamp.com/album/trigger-happy">Trigger Happy by Trigger Happy</a></iframe>{:.non-top-margin}
 
 <!-- #### Trigger Happy (debut album release)
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2368081333/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/" seamless><a href="https://tawpot.bandcamp.com/album/trigger-happy">Trigger Happy by Trigger Happy</a></iframe> -->
